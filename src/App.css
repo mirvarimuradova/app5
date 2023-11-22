@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+input{
+ margin: 15px;
+ height: 30px;
+ width: 200px;
+  border: 1px solid black;
+  border-radius: 7px;
+
+}
+.serh{
+  height: 50px;
+}
+button{
+  width: 200px;
+  border-radius: 7px;
+  height: 30px;
+}
